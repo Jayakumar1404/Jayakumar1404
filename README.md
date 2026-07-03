@@ -22,9 +22,7 @@ Building scalable applications, solving real-world problems, and helping others 
 
 - Spring Boot
 - REST APIs
-- Microservices
-- React
-- System Design
+- Sql
 
 🎯 Goal
 
@@ -120,15 +118,7 @@ Modern premium portfolio with
 
 ✅ Spring Boot
 
-✅ Hibernate
-
 ✅ REST APIs
-
-✅ React
-
-✅ Docker
-
-✅ System Design
 
 ---
 
